@@ -1,7 +1,7 @@
 Project GTN
 [Proposal for sports equipment sharing website, 
 ‘Get Things you need Near you’]
-![image](https://user-images.githubusercontent.com/90039897/210648519-5e6f58b8-c735-4ffa-804b-dac865ce1580.png)
+
 
 
 1.	Introduction
@@ -20,4 +20,4 @@ d.	User can select a rental period for a piece of equipment and rent it for this
 e.	The days where the item is already rented out to someone else are blocked in the selection.
 f.	User can receive some points(rewards) as a return of the rental.
 g.	User may receive a notification if someone want to rent their items.
-![image](https://user-images.githubusercontent.com/90039897/210648483-0e685e52-b194-497f-8eac-2fd5e51c2dad.png)
+
